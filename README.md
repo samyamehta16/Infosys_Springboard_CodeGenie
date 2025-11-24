@@ -40,7 +40,7 @@ It is the perfect environment for both learning and professional coding.
 - Monitor system health, usage patterns, and analytics on user growth and AI models
 - Search across users, code histories, feedback, and generated snippets
 - Analyze feedback sentiment and module usage metrics
-<img width="2517" height="1256" alt="image" src="https://github.com/user-attachments/assets/c8d2606d-db41-4f71-b11b-4853ec84d0c4" />
+<img width="2510" height="1184" alt="image" src="https://github.com/user-attachments/assets/7b413023-42b7-44f9-a5a7-535cb5742489" />
 
 ## Project Structure
 
