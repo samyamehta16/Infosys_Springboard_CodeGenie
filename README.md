@@ -24,19 +24,23 @@ It is the perfect environment for both learning and professional coding.
 - Access and refresh token handling with auto-refresh
 - OTP-based password recovery through Gmail SMTP
 - Optional security questions for fallback recovery
+<img width="2398" height="1058" alt="image" src="https://github.com/user-attachments/assets/678e4122-03fc-4c46-86f4-960673781c48" />
+
 
 ### User Dashboard
 - **Code Explanation Engine:** Paste code (Python, JavaScript, SQL) and receive clear, structured explanations using AST and token parsing techniques
 - **Code Generator:** Generate working code using AI models such as CodeLlama, StarCoder2, and DeepSeek-Coder based on your description
 - **History:** Track all generated code, explanations, chats, and usage details with timestamps and model info
 - **Profile Settings:** Manage user information, themes, and secure password changes with OTP and security questions
-
+<img width="2531" height="1240" alt="image" src="https://github.com/user-attachments/assets/83990fb2-50a9-4c40-bf7b-9003109d434e" />
+  
 ### Admin Dashboard
 - Manage user roles and promote users to admin (max 2 admins for security)
 - Reset user passwords and view a global activity log
 - Monitor system health, usage patterns, and analytics on user growth and AI models
 - Search across users, code histories, feedback, and generated snippets
 - Analyze feedback sentiment and module usage metrics
+<img width="2517" height="1256" alt="image" src="https://github.com/user-attachments/assets/c8d2606d-db41-4f71-b11b-4853ec84d0c4" />
 
 ## Project Structure
 
